@@ -38,7 +38,7 @@ def get_key(val, my_dict):
 #Load Model
 # def load_pred(model_file):
 #     loaded_model =  joblib.load("m")
-modelz = joblib.load(r"C:\Users\NOVATECH\Desktop\technidus\Final_support\modelrf23.pkl")
+modelz = joblib.load("modelrf23.pkl")
 
 def main():
     """Housing Ml App"""
@@ -71,8 +71,8 @@ def main():
         v_serviced_flag1 = get_value(serviced_flag1,serviced_flag )
 
         #Function to convert Cleaned data csv and Location rank csv to Panda dataframe
-        data = load_data(r'C:\Users\NOVATECH\Desktop\technidus\Final_support\clean_data.csv')
-        data2 =load_data(r'C:\Users\NOVATECH\Desktop\technidus\Final_support\locationrank.csv')
+        data = load_data('clean_data.csv')
+        data2 =load_data('locationrank.csv')
 
         #Block of code that execute when you click evaluate
         if st.button("Evaluate"):
