@@ -12,7 +12,7 @@ https://github.com/Ayanlola2002/Technidus_project/blob/master/technidus_app.png
 
 Finalists:
 
-
+https://github.com/Ayanlola2002/Technidus_project/blob/master/The%20Technidus%20Python%20at%20Home%20Challenge%20finals.jpg
 
 
 
