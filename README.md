@@ -8,6 +8,10 @@ via the app by clicking the link bellow:
 
 https://ayanlola-app.herokuapp.com/
 
+https://github.com/Ayanlola2002/Technidus_project/blob/master/technidus_app.png
+
+Finalists:
+
 
 
 
